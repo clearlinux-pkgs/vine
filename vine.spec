@@ -4,7 +4,7 @@
 #
 Name     : vine
 Version  : 1.1.3
-Release  : 3
+Release  : 4
 URL      : http://pypi.debian.net/vine/vine-1.1.3.tar.gz
 Source0  : http://pypi.debian.net/vine/vine-1.1.3.tar.gz
 Summary  : Promises, promises, promises.
