@@ -6,7 +6,7 @@
 #
 Name     : vine
 Version  : 1.1.4
-Release  : 10
+Release  : 11
 URL      : http://pypi.debian.net/vine/vine-1.1.4.tar.gz
 Source0  : http://pypi.debian.net/vine/vine-1.1.4.tar.gz
 Source99 : http://pypi.debian.net/vine/vine-1.1.4.tar.gz.asc
