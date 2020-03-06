@@ -4,7 +4,7 @@
 #
 Name     : vine
 Version  : 1.3.0
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/1c/e1/79fb8046e607dd6c2ad05c9b8ebac9d0bd31d086a08f02699e96fc5b3046/vine-1.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1c/e1/79fb8046e607dd6c2ad05c9b8ebac9d0bd31d086a08f02699e96fc5b3046/vine-1.3.0.tar.gz
 Summary  : Promises, promises, promises.
@@ -43,6 +43,7 @@ python components for the vine package.
 Summary: python3 components for the vine package.
 Group: Default
 Requires: python3-core
+Provides: pypi(vine)
 
 %description python3
 python3 components for the vine package.
@@ -57,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1578638754
+export SOURCE_DATE_EPOCH=1583533708
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$CFLAGS -fno-lto "
